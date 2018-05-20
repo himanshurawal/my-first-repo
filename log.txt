@@ -1,0 +1,17 @@
+commit b7cb25767bc4e50ed9b1631f1f2e511bcd804396
+Author: himanshu rawal <rawalhimanshu2@gmail.com>
+Date:   Sun May 20 09:02:57 2018 +0530
+
+    added gitignore
+
+commit fb2a9152b83b664d2dd22f5bc03b389c0d758144
+Author: himanshu rawal <rawalhimanshu2@gmail.com>
+Date:   Sun May 20 08:41:04 2018 +0530
+
+    added two files
+
+commit 5d4239515c77a3c3f4a43c2bcb076b252aec984d
+Author: himanshu rawal <rawalhimanshu2@gmail.com>
+Date:   Sun May 20 08:21:46 2018 +0530
+
+    added readme.txt
